@@ -139,7 +139,6 @@ Gem::Specification.new do |s|
      "spec/rcov.opts",
      "spec/spec.opts",
      "spec/spec_helper.rb",
-     "spec/views/surveyor/show.html.haml_spec.rb",
      "surveyor.gemspec",
      "testbed/Gemfile"
   ]
@@ -168,7 +167,6 @@ Gem::Specification.new do |s|
      "spec/models/validation_condition_spec.rb",
      "spec/models/validation_spec.rb",
      "spec/spec_helper.rb",
-     "spec/views/surveyor/show.html.haml_spec.rb"
   ]
 
   if s.respond_to? :specification_version then
